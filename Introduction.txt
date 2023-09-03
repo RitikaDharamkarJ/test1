@@ -1,0 +1,3 @@
+Hello Evveryone,
+
+Welcome to the workshop. Today we are going to learn about SQL fundamentals and relational databases. Whether it is for data science or software engineering and just handling excel spreadsheets. If you use data, then this workshop will help you use SQL so that you can better handle the data. 
