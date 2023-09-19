@@ -1,1 +1,1 @@
-SELECT * from rexon_metals
+SELECT * from CUSTOMERS
